@@ -1,0 +1,1 @@
+	int fd = open("/nfs/2016/i/itsuman/cursus_42/lem_in/subject1.map", O_RDONLY);
